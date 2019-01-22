@@ -72,7 +72,7 @@
 
 //#pragma enable_d3d11_debug_symbols
 
-//#define ENABLE_RAYTRACING
+#define ENABLE_RAYTRACING
 
 //-------------------------------------------------------------------------------------
 // Include
